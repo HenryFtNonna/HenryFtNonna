@@ -1,5 +1,5 @@
 
-## Hi!👋 My name is Henry and i'm a Frontend Developer.
+## Hi! I'M Henry.
 
 
 <div align="center">
